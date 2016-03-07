@@ -1,1 +1,5 @@
 This is currently a stub for a sandwich recipe.
+- 2 slices bread
+- 1 slice cheese
+- 1 tomato
+- 1 cucumber
